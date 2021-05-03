@@ -1,3 +1,3 @@
 # Text summerization using spaCy
 
-A simple text summerizer built with spaCy
+A simple text summarizer built with spaCy
